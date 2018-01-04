@@ -11,4 +11,7 @@
   - reslut(disparity, occlusion, warpedLeft) are show in ./output 
 
 ### Training
-  We do not provide the code for training. For training, we need an in-house differentiable *interpolation* layer developed by our company, [SenseTime Group Limited](https://www.sensetime.com/).
+  - adjust loadData.py to fit dataset location
+  - load trained model
+  - run train.py
+  - save models (checkpoint) in ./models
