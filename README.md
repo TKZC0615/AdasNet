@@ -16,7 +16,7 @@ into matching loss. (iii) We train our unsupervised model on KITTI stereo 2012, 
 ### Prerequisites
   - Tensorflow
   - OpenCv
-  - Download our trained model through Baiduyun [link](https://pan.baidu.com/s/1c1GJzna)
+  - Download our trained model from [Baiduyun](https://pan.baidu.com/s/1c1GJzna)
 
 ### Testing on the KITTI dataset
   - take stereo images in ./input/left and ./input/right as input
