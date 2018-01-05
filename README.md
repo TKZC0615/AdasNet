@@ -1,7 +1,7 @@
 # AdasNet
 
 ## Info
-  **Unsupervised Binocular Depth Perception on Driving Scenario**
+  **Unsupervised Binocular Depth Perception on Driving Scenario**<br>
   Ningqi*, Chengxi Yang', Wenxiu Sun' and Binheng Song*.<br>
   *Tsinghua University, 'SenseTime Group Limited.<br>
   Emails: lnq16@mails.tsinghua.edu.cn<br>
