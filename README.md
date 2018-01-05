@@ -12,13 +12,13 @@ To achive depth perception on drving scenario (i) We construct a cascade residua
 between reconstructed and conference images do not consider of the occlusion area. We design an occlusion module and add it
 into matching loss. (iii) We train our unsupervised model on KITTI stereo 2012, stereo 2015, Cityscapes and our own dataset. Trained model is available in [Baiduyun](https://pan.baidu.com/s/1c1GJzna).
 
-## Use it
+## How to Use
 ### Prerequisites
   - Tensorflow
   - OpenCv
   - Download our trained model from [Baiduyun](https://pan.baidu.com/s/1c1GJzna)
 
-### Testing on the KITTI dataset
+### Testing
   - take stereo images in ./input/left and ./input/right as input
   - run test.py
   - reslut(disparity, occlusion, warpedLeft) are show in ./output 
