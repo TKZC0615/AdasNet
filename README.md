@@ -19,15 +19,15 @@ into matching loss. (iii) We train our unsupervised model on KITTI stereo 2012, 
   - Download our trained model from [Baiduyun](https://pan.baidu.com/s/1c1GJzna)
 
 ### Testing
-  - take stereo images in ./input/left and ./input/right as input
-  - run test.py
-  - reslut(disparity, occlusion, warpedLeft) are show in ./output 
+  - Take stereo images in ./input/left and ./input/right as input
+  - Run test.py
+  - Reslut(disparity, occlusion, warpedLeft) are show in ./output 
 
 ### Training
-  - adjust loadData.py to fit dataset location
-  - load trained model
-  - run train.py
-  - save models (checkpoint) in ./models
+  - Adjust loadData.py to fit dataset location
+  - Load trained model
+  - Run train.py
+  - Save models (checkpoint) in ./models
 
 ## Related work
 C. Godard, O. Mac Aodha, and G. J. Brostow, “Unsupervised monocular depth estimation with left-right consistency,” in Proc. of the IEEE Conference on Computer Vision and Pattern Recognition, CVPR, pages 279–270, 2016. [Github](https://github.com/mrharicot/monodepth)<br>
