@@ -1,8 +1,8 @@
 # AdasNet
 
 ## Info
-  Ningqi*， Chengxi Yang^， Wenxiu Sun^ and Binheng Song*.<br>
-  *Tsinghua University, ^SenseTime Group Limited.<br>
+  Ningqi*, Chengxi Yang', Wenxiu Sun' and Binheng Song*.<br>
+  *Tsinghua University, 'SenseTime Group Limited.<br>
   Emails: lnq16@mails.tsinghua.edu.cn<br>
   reference “Unsupervised Binocular Depth Perception on Driving Scenario”<br>
   submited to 24th International Conference on Pattern Recognition, ICPR'2018 [link](http://www.icpr2018.org/)
