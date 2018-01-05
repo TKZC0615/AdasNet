@@ -30,8 +30,7 @@ into matching loss. (iii) We train our unsupervised model on KITTI stereo 2012, 
   - save models (checkpoint) in ./models
 
 ## Related work
-C. Godard, O. Mac Aodha, and G. J. Brostow, “Unsupervised monocular depth estimation with left-right consistency,” in Proc. of the IEEE Conference on Computer Vision and Pattern Recognition, CVPR, pages 279–270, 2016.<br>
-[Github](https://github.com/mrharicot/monodepth)<br>
+C. Godard, O. Mac Aodha, and G. J. Brostow, “Unsupervised monocular depth estimation with left-right consistency,” in Proc. of the IEEE Conference on Computer Vision and Pattern Recognition, CVPR, pages 279–270, 2016. [Github](https://github.com/mrharicot/monodepth)<br>
 Y. Zhong, Y. Dai, and H. Li, “Self-supervised learning for stereo matching with self-improcing ability,” in arXiv preprint arXiv: 1709.00930, 2017.
 
 ## Acknowledgment
