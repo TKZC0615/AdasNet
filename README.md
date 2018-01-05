@@ -10,7 +10,7 @@
 ## Introduction
 To achive depth perception on drving scenario (i) We construct a cascade residual network which takes pairwise stereo images as input and output disparity map of the single left image. The training process of this neural network is not reliant on ground truth disparities. (ii) We propose an occlusion-aware reconstruction matching loss function. Nowadays the similarity evaluations
 between reconstructed and conference images do not consider of the occlusion area. We design an occlusion module and add it
-into matching loss. (iii) We train our unsupervised model on KITTI stereo 2012, stereo 2015, Cityscapes and our own dataset. Trained model is available in Baiduyun [link](https://pan.baidu.com/s/1c1GJzna.
+into matching loss. (iii) We train our unsupervised model on KITTI stereo 2012, stereo 2015, Cityscapes and our own dataset. Trained model is available in Baiduyun [link](https://pan.baidu.com/s/1c1GJzna).
 
 ## Use it
 ### Prerequisites
