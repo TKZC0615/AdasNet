@@ -4,13 +4,13 @@
 **Unsupervised Binocular Depth Perception on Driving Scenario**<br>
 Ningqi Luo', Chengxi Yang", Wenxiu Sun" and Binheng Song'.<br>
 'Tsinghua University, "SenseTime Group Limited.<br>
-Emails: lnq16@mails.tsinghua.edu.cn<br>
+Email: lnq16@mails.tsinghua.edu.cn<br>
 Submitted to 24th International Conference on Pattern Recognition, [ICPR'2018](http://www.icpr2018.org/)
 
 ## Introduction
-To achive depth perception on drving scenario (i) We construct a cascade residual network which takes pairwise stereo images as input and output disparity map of the single left image. The training process of this neural network is not reliant on ground truth disparities. (ii) We propose an occlusion-aware reconstruction matching loss function. Nowadays the similarity evaluations
-between reconstructed and conference images do not consider of the occlusion area. We design an occlusion module and add it
-into matching loss. (iii) We train our unsupervised model on KITTI stereo 2012, stereo 2015, Cityscapes and our own dataset. Trained model is available in [Baiduyun](https://pan.baidu.com/s/1c1GJzna).
+To achive depth perception on drving scenario (i) We construct a CNN-based neural network which takes pairwise stereo images as input and output disparity map of the single left image. The training process of this neural network is not reliant on ground truth disparities. (ii) We propose an occlusion-aware reconstruction loss function. Nowadays the similarity evaluations
+between reconstructed and reference images do not consider of the occlusion area. We design an occlusion module and add it
+into matching loss. (iii) We train our unsupervised model on KITTI Stereo 2012, Stereo 2015, Cityscapes and our self-collected dataset. Trained model is available in [Baiduyun](https://pan.baidu.com/s/1c1GJzna).
 
 ## How to Use
 ### Prerequisites
